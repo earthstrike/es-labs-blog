@@ -1,4 +1,4 @@
-Title: Loomio got a infrastructure fix
+Title: Loomio got an infrastructure fix
 Date: 2019-1-20
 Category: Outages
 
