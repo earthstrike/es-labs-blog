@@ -1,6 +1,6 @@
 Title: wordpress now on own infra
 Date: 2019-08-26
-Category: Infrastructure, Update
+Category: Infrastructure
 
 We have a copy running under a seperate subdomain for testing.
 
