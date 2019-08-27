@@ -1,0 +1,1 @@
+try `inv -l`, this isn't for end users

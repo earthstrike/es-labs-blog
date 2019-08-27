@@ -24,11 +24,12 @@ LINKS = (
          ('Earth Strike International', 'htts://earth-strike.com/'),
          ('Loomio', 'https://loomio.earth-strike.com/'),
          ('Zulip', 'https://zulip.earth-strike.com/'),
+         ('Nextcloud', 'https://files.earth-strike.com/'),
         )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('github', 'https://github.com/earthstrike/'),
+          ('blog source', 'https://github.com/earthstrike/es-labs-blog'),)
 
 DEFAULT_PAGINATION = 10
 
